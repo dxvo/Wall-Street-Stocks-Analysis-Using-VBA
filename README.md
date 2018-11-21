@@ -1,4 +1,16 @@
 # Wall-Street-Stocks-Analysis-Using-VBA
+
+#### Background 
+- Using VBA to analyze real stock market data for year 2014, 2015 and 2016
+- Each year datasheet contains 700,000+ entries. 
+- Data description: 
+	- ticker : Stock Ticker Symbol 
+	- date: date of year 
+	- open: stock price at opening for the date 
+	- high: stock peak for one day period 
+	- low: lowest stock value for one day period 
+	- vol: total trade vol per day 
+
 #### Part 1 
 - VBA script to generate total volume of each stock had over the year.
 - Display the ticker symbol to coincide with the total volume
