@@ -13,4 +13,4 @@
 - Locate and return stock ticker with highest trade volume 
 
 #### Final Result example from year 2014
-
+<img width="1130" alt="screen shot 2018-11-21 at 2 06 53 am" src="https://user-images.githubusercontent.com/42792976/48827347-a0fec900-ed32-11e8-9113-7ee0fc767681.png">
