@@ -1,4 +1,4 @@
-# Wall-Street-Stocks-Analysis-Using-VBA
+# Wall Street Stocks Analysis Using VBA
 
 #### Background 
 - Using VBA to analyze real stock market data for year 2014, 2015 and 2016
